@@ -1,1 +1,3 @@
 T_Phone_Nova_A.png
+T_Phone_Nova_N.png
+T_Phone_Nova_MSAO.png
